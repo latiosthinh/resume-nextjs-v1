@@ -8,13 +8,13 @@ export default function Experience() {
       <BlockTitle text="Professional Experience" />
 
       <Job
-        title="Frontend Tech Lead"
+        title="Front-end Tech Lead"
         company="Niteco"
         period="09/2021 - Present"
       >
         <Project
           name="Project: NorthShoreCare (E-commerce Platform)"
-          title="Frontend Tech Lead"
+          title="Front-end Tech Lead"
         >
           <li>
             Led migration from Vue2/jQuery to Vue3/TypeScript, improving
@@ -36,7 +36,7 @@ export default function Experience() {
           <li>Achieved 85% unit test coverage across the codebase</li>
         </Project>
 
-        <Project name="Project: B2B SASS Commerce" title="Frontend Tech Lead">
+        <Project name="Project: B2B SASS Commerce" title="Front-end Tech Lead">
           <li>
             Designed and developed GraphQL plugin for component generation
           </li>
@@ -50,37 +50,37 @@ export default function Experience() {
 
         <Project
           name="Project: Electrolux EU (Multi-brand Platform)"
-          title="Senior Frontend Developer"
+          title="Senior Front-end Developer"
         >
           <li>Developed Base UI library serving 4+ brand websites</li>
           <li>Implemented design system using CSS variables and modules</li>
           <li>Optimized Next.js performance, reducing page load time by 35%</li>
           <li>
-            Collaborated with 14+ frontend developers across multiple teams
+            Collaborated with 14+ Front-end developers across multiple teams
           </li>
           <li>Established component documentation and usage guidelines</li>
         </Project>
 
         <Project
           name="Project: Etex (Multi-brand Platform)"
-          title="Senior Frontend Developer"
+          title="Senior Front-end Developer"
         >
           <li>Developed Base UI library serving 10+ brand websites</li>
           <li>Implemented design system using CSS variables and modules</li>
           <li>
-            Collaborated with 6+ frontend developers across multiple teams
+            Collaborated with 6+ Front-end developers across multiple teams
           </li>
           <li>Established component documentation and usage guidelines</li>
         </Project>
 
         <Project
           name="Project: Delaware (EPI CMS Platform)"
-          title="Intermediate Frontend Developer"
+          title="Intermediate Front-end Developer"
         >
           <li>Optimized Next.js performance, reducing page load time by 70%</li>
           <li>Implemented design system using CSS variables and modules</li>
           <li>
-            Collaborated with 6+ frontend developers across multiple teams
+            Collaborated with 6+ Front-end developers across multiple teams
           </li>
           <li>Established component documentation and usage guidelines</li>
         </Project>

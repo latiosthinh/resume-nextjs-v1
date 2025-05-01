@@ -21,7 +21,7 @@ export default function Skills() {
           <li>Language: PHP, DART, C#</li>
           <li>
             Framework: Vue.js, Qwik.js, Sveltkit, Flutter, Solid.js, Alpine.js,
-            Astro.js, ReactNative
+            Astro.js, ReactNative, Node.js
           </li>
           <li>CMS: Wordpress, Episerver, Optimizely</li>
           <li>Tools: Git, Webpack, Vite, Azure CI/CD, Jest, StoryBook</li>
